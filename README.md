@@ -5,18 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Shira Menaged)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson introduces the importance of version control systems and tracking changes made to source code.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Bootstrap is a free front-end framework for faster and easier web development.)
+2. (Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.)
+3. (Responsive design is essential in the 21st century as people have many different platforms and devices that they want to access files on.)
 
 # lesson3_versioncontrol
 # lesson3_versioncontrol
